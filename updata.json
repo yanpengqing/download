@@ -1,7 +1,8 @@
 {
     "code": 1,
     "data": {
-        "url": "https://github.com/yanpengqing/download/raw/master/app-release.apk",
+      "domain": "github.com",
+        "downloadUrl": "https://github.com/yanpengqing/download/raw/master/app-release.apk",
         "versionCode": 3
     },
     "msg": "请求成功"
