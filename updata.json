@@ -2,9 +2,9 @@
     "code": 1,
     "data": {
         "domain": "39.108.89.212",
-        "downloadUrl": "http://4094184.199.cmnet.data.tv002.com/down/e38fd63d4f0a90a883393c0e4dc8078a/Order_1.0.4_0717_beta.apk?cts=yd-f-U4094184&ctp=36A152A48A113&ctt=1563374486&limit=1&spd=2800000&ctk=e38fd63d4f0a90a883393c0e4dc8078a&chk=834eb8e43889bba776b08f762dee69b9-3364189",
-        "versionCode": 4,
-        "versionName": "1.0.4"
+        "downloadUrl": "http://4094184.199.cmnet.data.tv002.com/down/962a2efaeb8a4047d43c8e9689173e5c/Order_1.0.5_0717_beta.apk?cts=yd-f-U4094184&ctp=36A152A48A113&ctt=1563386824&limit=1&spd=2800000&ctk=962a2efaeb8a4047d43c8e9689173e5c&chk=462744375acd461eb86ec8f6451b06b5-3257049",
+        "versionCode": 5,
+        "versionName": "1.0.5"
     },
     "msg": "请求成功"
 }
