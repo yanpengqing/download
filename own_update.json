@@ -1,0 +1,10 @@
+{
+    "code": 1,
+    "data": {
+        "domain": "39.108.89.212",
+        "downloadUrl": "https://raw.githubusercontent.com/yanpengqing/download/master/own_5.1.0.5_0719_release.apk",
+        "versionCode": 5,
+        "versionName": "1.0.5"
+    },
+    "msg": "请求成功"
+}
