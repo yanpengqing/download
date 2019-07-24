@@ -1,10 +1,10 @@
 {
     "code": 1,
     "data": {
-        "domain": "ren.btlxkj.com",
-        "downloadUrl": "https://raw.githubusercontent.com/yanpengqing/download/master/fixed-2.1.0.2_0719_release.apk",
-        "versionCode": 2,
-        "versionName": "1.0.2"
+        "domain": "47.107.176.186",
+        "downloadUrl": "https://raw.githubusercontent.com/yanpengqing/download/master/fixed-3.1.0.3_0724_release.apk",
+        "versionCode": 3,
+        "versionName": "1.0.3"
     },
     "msg": "请求成功"
 }
